@@ -1,1 +1,30 @@
-[]
+{
+  "kernelSource": {
+    "name": "RMX2202 LOSos KernelSu",
+    "repo": "https://github.com/pjgowtham/kernel_realme_RMX2202",
+    "branch": "master",
+    "device": "RMX2202",
+    "defconfig": ""
+  },
+  "withKernelSU": false,
+  "toolchains": [
+    {
+      "repo": "",
+      "branch": "",
+      "name": "",
+      "binPath": []
+    }
+  ],
+  "ccache": false,
+  "params": {
+    "ARCH": "",
+    "CC": "",
+    "externalCommand": {}
+  },
+  "AnyKernel3": {
+    "use": false,
+    "release": false,
+    "repo": "",
+    "branch": ""
+  }
+}
