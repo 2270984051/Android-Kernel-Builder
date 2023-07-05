@@ -39,8 +39,8 @@
     "AnyKernel3": {
       "use": false,
       "release": false,
-      "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "repo": "https://github.com/2270984051/AnyKernel3.git",
+      "branch": "RMX2202"
     }
   }
 ]
