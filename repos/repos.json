@@ -1,6 +1,6 @@
 [
   {
-     "kernelSource": {
+    "kernelSource": {
     "name": "RMX2202 LOSos KernelSu",
     "repo": "https://github.com/realme-kernel-opensource/realmeGT_AndroidR-kernel-source.git",
     "branch": "master",
@@ -39,8 +39,8 @@
     "AnyKernel3": {
       "use": false,
       "release": false,
-      "repo": "https://github.com/2270984051/AnyKernel3/",
-      "branch": "RMX2202"
+      "repo": "https://github.com/easterNday/AnyKernel3/",
+      "branch": "thyme"
     }
   }
 ]
