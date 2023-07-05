@@ -15,7 +15,7 @@
       "binPath": ["./bin"]
     }
   ],
-  "ccache": true,
+    "ccache": true,
     "params": {
       "ARCH": "arm64",
       "CC": "proton-clang/bin/clang",
@@ -34,5 +34,12 @@
         "LLVM_AR": "proton-clang/bin/llvm-ar",
         "LLVM_DIS": "proton-clang/bin/llvm-dis"
       }
+    },
+    "AnyKernel3": {
+      "use": true,
+      "release": false,
+      "repo": "https://github.com/2270984051/AnyKernel3",
+      "branch": "RMX2202"
     }
-}
+  }
+]
