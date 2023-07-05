@@ -1,20 +1,21 @@
-{
-  "kernelSource": {
+[
+  {
+     "kernelSource": {
     "name": "RMX2202 LOSos KernelSu",
-    "repo": "https://github.com/pjgowtham/kernel_realme_RMX2202",
+    "repo": "https://github.com/realme-kernel-opensource/realme_gt-AndroidT-kernel-source",
     "branch": "master",
     "device": "RMX2202",
     "defconfig": "lahaina_defconfig"
-  },
-  "withKernelSU": false,
-  "toolchains": [
-    {
-      "repo": "https://github.com/kdrag0n/proton-clang",
-      "branch": "master",
-      "name": "proton-clang",
-      "binPath": ["./bin"]
-    }
-  ],
+    },
+    "withKernelSU": false,
+    "toolchains": [
+      {
+        "repo": "https://github.com/kdrag0n/proton-clang",
+        "branch": "master",
+        "name": "proton-clang",
+        "binPath": ["./bin"]
+      }
+    ],
     "ccache": true,
     "params": {
       "ARCH": "arm64",
@@ -36,9 +37,9 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
+      "use": false,
       "release": false,
-      "repo": "https://github.com/2270984051/AnyKernel3",
+      "repo": "https://github.com/2270984051/AnyKernel3/",
       "branch": "RMX2202"
     }
   }
