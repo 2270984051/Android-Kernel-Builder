@@ -4,7 +4,7 @@
     "repo": "https://github.com/pjgowtham/kernel_realme_RMX2202",
     "branch": "master",
     "device": "RMX2202",
-    "defconfig": ""
+    "defconfig": "lahaina_defconfig"
   },
   "withKernelSU": false,
   "toolchains": [
