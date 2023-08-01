@@ -2,10 +2,10 @@
   {
     "kernelSource": {
     "name": "RMX2202_LOSos_KernelSu",
-    "repo": "https://github.com/realme-kernel-opensource/realmeGT_AndroidR-kernel-source.git",
+    "repo": "https://github.com/2270984051/realme_gt-AndroidT-kernel-source.git",
     "branch": "master",
     "device": "RMX2202",
-    "defconfig": "gki"
+    "defconfig": "gki_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
